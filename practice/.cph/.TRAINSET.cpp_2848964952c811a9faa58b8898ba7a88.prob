@@ -1,0 +1,1 @@
+{"name":"Local: TRAINSET","url":"e:\\oops\\practice\\TRAINSET.cpp","tests":[{"id":1731160264459,"input":"3\n3\nabc 0\nabc 1\nefg 1\n1\n7\nfck 1\nfck 0\nfck 1\nbody 0\nbody 0\nbody 0\nram 0\n5\nvv 1\nvv 0\nvv 0\nvv 1\nvv 1\n","output":"2\n6\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\oops\\practice\\TRAINSET.cpp","group":"local","local":true}

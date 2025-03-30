@@ -1,0 +1,1 @@
+{"name":"Local: disc","url":"e:\\oops\\practice\\disc.cpp","tests":[{"id":1731157595123,"input":"3\n21\n132\n104","output":"1\n12\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\oops\\practice\\disc.cpp","group":"local","local":true}
